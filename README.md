@@ -3,7 +3,7 @@
 Vagrant box for software development with Ruby on Rails. It will have the
 following main components:
 
-- crul
+- curl
 - git
 - RVM (user_install)
 - Ruby 2.2.1
