@@ -14,11 +14,11 @@ following main components:
 
 ## Installation
 
-'''
+```
 $ bundle install
 $ vagrant plugin install vagrant-berkshelf
 $ vagrant up --provision
-'''
+```
 
 ## Contributing
 
